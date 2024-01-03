@@ -2,7 +2,7 @@
     "workoutRoutines": {
         "beginner": {
             "fullBody": [
-                {"name": "Push-ups", "image": "push_up_image_url.jpg"},
+                {"name": "Push-ups", "image": "push_up_image_url.jpg", "video":"https://youtu.be/LszpXqIGNH4"},
                 {"name": "Bodyweight Squats", "image": "squats_image_url.jpg"},
                 {"name": "Plank", "image": "push_up_image_url.jpg"},
                 {"name": "Lunges", "image": "squats_image_url.jpg"},
