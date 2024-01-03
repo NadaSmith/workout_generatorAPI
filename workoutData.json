@@ -11,7 +11,7 @@
                 {"name": "Bicep Curls", "image": "push_up_image_url.jpg"},
                 {"name": "Tricep Dips", "image": "squats_image_url.jpg"},
                 {"name": "Leg Raises", "image": "push_up_image_url.jpg"},
-                {"name": "Seated Russian Twist", "image": "squats_image_url.jpg"},
+                {"name": "Seated Russian Twist", "image": "squats_image_url.jpg"}
             ],
             "cardio": [
                 {"name": "Jogging in Place", "image": "jogging_image_url.jpg"},
