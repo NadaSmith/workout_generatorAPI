@@ -2,79 +2,79 @@
     "workoutRoutines": {
         "beginner": {
             "fullBody": [
-                {"name": "Push-ups", "image": "push_up_image_url.jpg", "video":"https://youtu.be/LszpXqIGNH4"},
-                {"name": "Bodyweight Squats", "image": "squats_image_url.jpg", "video":},
-                {"name": "Plank", "image": "push_up_image_url.jpg"},
-                {"name": "Lunges", "image": "squats_image_url.jpg"},
-                {"name": "Jumping Jacks", "image": "push_up_image_url.jpg"},
-                {"name": "Wall Sit", "image": "squats_image_url.jpg"},
-                {"name": "Bicep Curls", "image": "push_up_image_url.jpg"},
-                {"name": "Tricep Dips", "image": "squats_image_url.jpg"},
-                {"name": "Leg Raises", "image": "push_up_image_url.jpg"},
-                {"name": "Seated Russian Twist", "image": "squats_image_url.jpg"}
+                {"name": "Push-ups", "video":"https://youtu.be/LszpXqIGNH4"},
+                {"name": "Bodyweight Squats", "video":"https://youtube.com/shorts/r_3BghQ-Lzc?feature=share"},
+                {"name": "Plank",  "video":"https://youtube.com/shorts/Oga3s-1N9oo?feature=share"},
+                {"name": "Lunges", "video":"https://youtube.com/shorts/7WeHj7oJ4x8?feature=share"},
+                {"name": "Jumping Jacks", "video":"https://youtu.be/tZSwRRrsYJQ"},
+                {"name": "Glute Bridges", "video":""},
+                {"name": "Bicep Curls", "video":""},
+                {"name": "Tricep Dips", "video":""},
+                {"name": "Leg Raises", "video":""},
+                {"name": "Seated Russian Twist", "video":""}
             ],
             "cardio": [
-                {"name": "Jogging in Place", "image": "jogging_image_url.jpg"},
-                {"name": "High Knees", "image": "high_knees_image_url.jpg"},
-                {"name": "Mountain Climbers", "image": "jogging_image_url.jpg"},
-                {"name": "Jump Rope", "image": "high_knees_image_url.jpg"},
-                {"name": "Step-Ups", "image": "jogging_image_url.jpg"},
-                {"name": "Butt Kicks", "image": "high_knees_image_url.jpg"},
-                {"name": "Side Shuffles", "image": "jogging_image_url.jpg"},
-                {"name": "Skaters", "image": "high_knees_image_url.jpg"},
-                {"name": "Boxer Shuffle", "image": "jogging_image_url.jpg"},
-                {"name": "Fast Feet Drill", "image": "high_knees_image_url.jpg"}
+                {"name": "Jogging in Place", "video":""},
+                {"name": "High Knees", "video":""},
+                {"name": "Mountain Climbers", "image": "jogging_image_url.jpg", "video":""},
+                {"name": "Jump Rope", "image": "high_knees_image_url.jpg", "video":""},
+                {"name": "Step-Ups", "image": "jogging_image_url.jpg", "video":""},
+                {"name": "Butt Kicks", "image": "high_knees_image_url.jpg", "video":""},
+                {"name": "Side Shuffles", "image": "jogging_image_url.jpg", "video":""},
+                {"name": "Skaters", "image": "high_knees_image_url.jpg", "video":""},
+                {"name": "Boxer Shuffle", "image": "jogging_image_url.jpg", "video":""},
+                {"name": "Fast Feet Drill", "image": "high_knees_image_url.jpg", "video":""}
                 
             ]
         },
         "intermediate": {
             "fullBody": [
-                {"name": "Dumbbell Bench Press", "image": "dumbbell_bench_press_image_url.jpg"},
-                {"name": "Lunges", "image": "lunges_image_url.jpg"}
+                {"name": "Dumbbell Bench Press", "image": "dumbbell_bench_press_image_url.jpg", "video":""},
+                {"name": "Lunges", "image": "lunges_image_url.jpg", "video":""}
                 
             ],
             "cardio": [
-                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg"},
-                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg"}
+                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg", "video":""},
+                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg", "video":""}
                 
             ]
         },
         "advanced": {
             "fullBody": [
-                {"name": "Deadlifts", "image": "deadlifts_image_url.jpg"},
-                {"name": "Pull-ups", "image": "pull_ups_image_url.jpg"}
+                {"name": "Deadlifts", "image": "deadlifts_image_url.jpg", "video":""},
+                {"name": "Pull-ups", "image": "pull_ups_image_url.jpg", "video":""}
                 
             ],
             "cardio": [
-                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg"},
-                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg"}
+                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg", "video":""},
+                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg", "video":""}
                
             ]
         },
         "athlete": {
             "strength": [
-                {"name": "Power Cleans", "image": "" },
-                {"name": "Front Squats", "image": ""},
-                {"name": "Bench Press", "image": ""},
-                {"name": "Deadlifts", "image": ""},
-                {"name": "Weighted Pull-Ups", "image": ""},
-                {"name": "Handstand Walkssquat", "image": ""},
-                {"name": "Long-Distance Running", "image": ""},
-                {"name": "Long-Distance Running", "image": ""},
-                {"name": "Long-Distance Running", "image": ""},
-                {"name": "Long-Distance Running", "image": ""}
+                {"name": "Power Cleans", "image": "", "video":""},
+                {"name": "Front Squats", "image": "", "video":""},
+                {"name": "Bench Press", "image": "", "video":""},
+                {"name": "Deadlifts", "image": "", "video":""},
+                {"name": "Weighted Pull-Ups", "image": "", "video":""},
+                {"name": "Handstand Walkssquat", "image": "", "video":""},
+                {"name": "Long-Distance Running", "image": "", "video":""},
+                {"name": "Long-Distance Running", "image": "", "video":""},
+                {"name": "Long-Distance Running", "image": "", "video":""},
+                {"name": "Long-Distance Running", "image": "", "video":""}
             ],
             "agility": [
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""},
-                {"name": "Cone Drills", "image": ""}
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""},
+                {"name": "Cone Drills", "image": "", "video":""}
             ]
         },
         "bodybuilder": {
