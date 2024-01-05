@@ -7,93 +7,213 @@
                 {"name": "Plank",  "video":"https://youtube.com/shorts/Oga3s-1N9oo?feature=share"},
                 {"name": "Lunges", "video":"https://youtube.com/shorts/7WeHj7oJ4x8?feature=share"},
                 {"name": "Jumping Jacks", "video":"https://youtu.be/tZSwRRrsYJQ"},
-                {"name": "Glute Bridges", "video":""},
-                {"name": "Bicep Curls", "video":""},
-                {"name": "Tricep Dips", "video":""},
-                {"name": "Leg Raises", "video":""},
-                {"name": "Seated Russian Twist", "video":""}
+                {"name": "Glute Bridges", "video":"https://youtu.be/g92Lrh9SoYw"},
+                {"name": "Bicep Curls", "video":"https://youtu.be/ITjjVsVl-rQ"},
+                {"name": "Tricep Dips", "video":"https://youtu.be/Ql_M4zwaI48"},
+                {"name": "Leg Raises", "video":"https://youtu.be/nFhssPpq7WI"},
+                {"name": "Seated Russian Twist", "video":"https://youtu.be/9HXKr2Sq7os?si=GIJPy-JZhDNipTbb"}
             ],
             "cardio": [
-                {"name": "Jogging in Place", "video":""},
-                {"name": "High Knees", "video":""},
-                {"name": "Mountain Climbers", "image": "jogging_image_url.jpg", "video":""},
-                {"name": "Jump Rope", "image": "high_knees_image_url.jpg", "video":""},
-                {"name": "Step-Ups", "image": "jogging_image_url.jpg", "video":""},
-                {"name": "Butt Kicks", "image": "high_knees_image_url.jpg", "video":""},
-                {"name": "Side Shuffles", "image": "jogging_image_url.jpg", "video":""},
-                {"name": "Skaters", "image": "high_knees_image_url.jpg", "video":""},
-                {"name": "Boxer Shuffle", "image": "jogging_image_url.jpg", "video":""},
-                {"name": "Fast Feet Drill", "image": "high_knees_image_url.jpg", "video":""}
+                {"name": "Jogging in Place", "video":"https://youtu.be/nWvd1xZkqYY"},
+                {"name": "High Knees", "video":"https://youtube.com/shorts/dyupx3jsPOo?feature=share"},
+                {"name": "Mountain Climbers", "video":"https://youtube.com/shorts/A-5AMYMWPv4?feature=share"},
+                {"name": "Jump Rope", "video":"https://youtu.be/rz0EEvo7KGY"},
+                {"name": "Step-Ups", "video":"https://youtube.com/shorts/eoxmWcF9VXM?feature=share"},
+                {"name": "Butt Kicks",  "video":"https://youtu.be/oAUex_Xudw4?si=jhyB1vEwq5cq9rNK"},
+                {"name": "Side Shuffles", "video":"https://youtu.be/2INI62dj1hk?si=kgldiqt9eHC_fgEd"},
+                {"name": "Skaters", "video":"https://youtu.be/IEjUNb8UUhA?si=40DXEJ-amjS4cK3L"},
+                {"name": "Boxing", "video":"https://youtube.com/shorts/tPi5CYIDDDo?si=vV9tJ0p6V6VtQwfL"},
+                {"name": "Fast Feet Drill", "video":"https://youtube.com/shorts/9rgZFBgoZF4?si=RJY4pXoMyk2PYk_F"}
                 
             ]
         },
         "intermediate": {
             "fullBody": [
-                {"name": "Dumbbell Bench Press", "image": "dumbbell_bench_press_image_url.jpg", "video":""},
-                {"name": "Lunges", "image": "lunges_image_url.jpg", "video":""}
+                {"name": "Dumbbell Bench Press", "video":"https://youtu.be/PZecKOpWOrk?si=Tc6_9HqZE-Cbeaex"},
+                {"name": "Lunges", "video":"https://youtube.com/shorts/7WeHj7oJ4x8?feature=share"},
+                {"name": "Mountain Climbers", "video":"https://youtube.com/shorts/A-5AMYMWPv4?feature=share"},
+                {"name": "Deadlifts", "video":"https://youtube.com/shorts/Tphtdr6u9r8?si=0jVDnD8XpFtFaaT8"},
+                {"name": "Pull-ups", "video":"https://youtu.be/CtgkSpOYSMY?si=oApK1CJPYoomh3gp"},
+                {"name": "Russian Twists", "video":"https://youtu.be/Y34Ej0bsnl0"},
+                {"name": "Leg Press", "video":"https://youtube.com/shorts/o9kmrLYObgA?si=Z2p1_CwIxcRtJdy8"},
+                {"name": "Lat Pulldowns", "image": "lunges_image_url.jpg", "video":""},
+                {"name": "Dumbbell Rows", "video":"https://youtu.be/ZxXLMMr0tts?si=ID8PSPjHH1GjNFE0"},
+                {"name": "Plank with Shoulder Taps", "video":"https://youtube.com/shorts/Hv-pWz34l_I?si=Q1WhekewcvHsi9sr"}
                 
             ],
             "cardio": [
-                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg", "video":""},
-                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg", "video":""}
+                {"name": "High Knees", "video":"https://youtu.be/VGb_fJ81yWc?si=2bsd4haO4mjFqmy5"},
+                {"name": "Box Jumps", "video":"https://youtu.be/n0UzrSOL-nw?si=VYso2UZ9uZhwE5Jr"},
+                {"name": "Jumping lunges", "video":"https://youtu.be/YYoxTz2w3r8?si=0ZVHJ1dVhsWX6ojo"},
+                {"name": "Burpees", "video":"https://youtu.be/7v8kblB4Ndw?si=X_MLSOfMql3R9ZxG"},
+                {"name": "Boxing HIIT", "video":"https://youtube.com/shorts/HQTD5XZc8wg?si=AH7ySeWCdsM6FIrX"},
+                {"name": "Bike Sprint Intervals", "video":"https://youtu.be/7Cfn5LeL0fw?si=UAo0zaxFRN37YFrm&t=42"},
+                {"name": "Agility Ladder Drills", "video":"https://youtu.be/Vl4FMq2ziI4?si=LuKXNI3KiA_sigVn"},
+                {"name": "Rowing Machine Intervals", "video":"https://youtube.com/shorts/MFnFULPvQaM?si=HuZ4GVykpgFqLxor"},
+                {"name": "Battle Ropes", "video":"https://youtu.be/A0F0UNY7RfM?si=QK__mxrQgqVSgP0P"},
+                {"name": "Kickboxing Combos", "video":"https://youtube.com/shorts/fJUY5eFYF3M?si=Tp38OmI5AC_JJjwR"}
                 
             ]
         },
         "advanced": {
             "fullBody": [
-                {"name": "Deadlifts", "image": "deadlifts_image_url.jpg", "video":""},
-                {"name": "Pull-ups", "image": "pull_ups_image_url.jpg", "video":""}
+                {"name": "Deadlifts", "video":"https://youtube.com/shorts/Tphtdr6u9r8?si=0jVDnD8XpFtFaaT8"},
+                {"name": "Pull-ups","video":"https://youtu.be/CtgkSpOYSMY?si=oApK1CJPYoomh3gp"},
+                {"name": "Russian Twists", "video":"https://youtu.be/Y34Ej0bsnl0"},
+                {"name": "Overhead Press","video":"https://youtu.be/kfXOeJ_-kJo?si=s-QtksAx8Af1zExA"},
+                {"name": "Pistol Squats", "video":"https://youtu.be/ZOxI-9tjZlE?si=XusovD4k006W3m1J"},
+                {"name": "Hanging Leg Raises","video":"https://youtu.be/KqUMAIQn0K8?si=AHk5pB12n2Q6Jy5J"},
+                {"name": "Clean and Jerk", "video":"https://youtu.be/M_sA2tj4g9k?si=ReKlEK6ZT3qpGFp7"},
+                {"name": "Front Lever Progressions","video":"https://youtu.be/UJpP-PPsPRw?si=IedIMSIRRdR1_DHh"},
+                {"name": "Handstand Push-ups", "video":"https://youtu.be/lbtGqx7KP3Y?si=gBH0Y18kFhQWfAaR&t=785"},
+                {"name": "Bar Muscle-ups","video":"https://youtube.com/shorts/EGEe52cYg-I?si=_YPsUKMnH0C-Wpca"}
                 
             ],
             "cardio": [
-                {"name": "Sprint Intervals", "image": "sprint_intervals_image_url.jpg", "video":""},
-                {"name": "Box Jumps", "image": "box_jumps_image_url.jpg", "video":""}
+                {"name": "High Knees", "video":"https://youtu.be/VGb_fJ81yWc?si=2bsd4haO4mjFqmy5"},
+                {"name": "Box Jumps", "video":"https://youtu.be/n0UzrSOL-nw?si=VYso2UZ9uZhwE5Jr"},
+                {"name": "Jump Rope Double-Unders", "video":"https://youtu.be/XV8TgQLGQwk?si=9yuKjUqe87d2uNws"},
+                {"name": "High-Intensity Rowing", "video":"https://youtube.com/shorts/MFnFULPvQaM?si=5IC2A-f9HIi-Y43m"},
+                {"name": "Boxing HIIT", "video":"https://youtube.com/shorts/HQTD5XZc8wg?si=AH7ySeWCdsM6FIrX"},
+                {"name": "Treadmill Sprints", "video":"https://youtu.be/Mx9XuY3l3Gs?si=kO8fMMywmkdRrdr4"},
+                {"name": "Assault Bike Sprints", "video":"https://youtu.be/-L77Blzen58?si=qdhv8DNKvxmMolvh"},
+                {"name": "Sled Pushes", "video":"https://youtu.be/4mTBydSJE7s?si=0Ks1SS9cN7cKoamo"},
+                {"name": "Tire Flips", "video":"https://youtu.be/ck54VJhUXao?si=K5IuX0atdeuvzZh9"},
+                {"name": "Swimming Intervals", "video":"https://youtu.be/en9QjfRd1Q4?si=ooPTdWsCL_BT0n1r"}
                
             ]
         },
         "athlete": {
             "strength": [
-                {"name": "Power Cleans", "image": "", "video":""},
-                {"name": "Front Squats", "image": "", "video":""},
-                {"name": "Bench Press", "image": "", "video":""},
-                {"name": "Deadlifts", "image": "", "video":""},
-                {"name": "Weighted Pull-Ups", "image": "", "video":""},
-                {"name": "Handstand Walkssquat", "image": "", "video":""},
-                {"name": "Long-Distance Running", "image": "", "video":""},
-                {"name": "Long-Distance Running", "image": "", "video":""},
-                {"name": "Long-Distance Running", "image": "", "video":""},
-                {"name": "Long-Distance Running", "image": "", "video":""}
+                {"name": "Power Cleans", "video":""},
+                {"name": "Front Squats", "video":""},
+                {"name": "Bench Press", "video":""},
+                {"name": "Deadlifts", "video":""},
+                {"name": "Weighted Pull-Ups", "video":""},
+                {"name": "Handstand Walks", "video":""},
+                {"name": "Snatch", "video":""},
+                {"name": "Muscle-Ups", "video":""},
+                {"name": "Plyometric Box Jumps", "video":""},
+                {"name": "Kettlebell Swings", "video":""}
             ],
             "agility": [
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""},
-                {"name": "Cone Drills", "image": "", "video":""}
+                {"name": "Cone Drills", "video":""},
+                {"name": "Ladder Drills", "video":""},
+                {"name": "Agility Hurdles", "video":""},
+                {"name": "Speed Rope Work", "video":""},
+                {"name": "Reaction Ball Drills", "video":""},
+                {"name": "Shuttle Runs", "video":""},
+                {"name": "Agility Rings", "video":""},
+                {"name": "Speed and Reaction Training", "video":""},
+                {"name": "Footwork Drills", "video":""}
             ]
         },
         "bodybuilder": {
-            "hypertorphy": [],
-            "isolation": []
-        },
+            "hypertorphy": [
+                {"name": "Barbell Curls", "video":""},
+                {"name": "Leg Extensions", "video":""},
+                {"name": "Machine Flyes", "video":""},
+                {"name": "Hammer Curls", "video":""},
+                {"name": "Calf Raises", "video":""},
+                {"name": "Leg Curls", "video":""},
+                {"name": "Seated Rows", "video":""},
+                {"name": "Preacher Curls", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Tricep Dips", "video":""}
+            ],
+            "isolation": [
+                {"name": "Side Lateral Raises", "video":""},
+                {"name": "Rear Delt Flyes", "video":""},
+                {"name": "Concentration Curls", "video":""},
+                {"name": "Tricep Kickbacks", "video":""},
+                {"name": "Cable Crunches", "video":""},
+                {"name": "Hamstring Curls", "video":""},
+                {"name": "Lateral Leg Raises", "video":""},
+                {"name": "Face Pulls", "video":""},
+                {"name": "Reverse Flyes", "video":""},
+                {"name": "Wrist Curls", "video":""}
+            ]
+        },  
         "endurance": {
-            "run": [],
-            "swim": []
-        },
+            "run": [
+                {"name": "Long-Distance Running", "video":""},
+                {"name": "Interval Sprints", "video":""},
+                {"name": "Trail Running", "video":""},
+                {"name": "Stair Climbing", "video":""},
+                {"name": "Fartlek Training", "video":""},
+                {"name": "Hill Sprints", "video":""},
+                {"name": "Cross-Country Running", "video":""},
+                {"name": "Tempo Runs", "video":""},
+                {"name": "Beach Running", "video":""},
+                {"name": "Treadmill Incline Walks", "video":""}
+            ], 
+            "swim": [
+                {"name": "Continuous Lap Swimming", "video":""},
+                {"name": "Interval Swim Sprints", "video":""},
+                {"name": "Open Water Swims", "video":""},
+                {"name": "Kickboard Drills", "video":""},
+                {"name": "Pull Buoy Drills", "video":""},
+                {"name": "Swim Drills with Fins", "video":""},
+                {"name": "Pool Length Challenges", "video":""},
+                {"name": "Water Treading", "video":""},
+                {"name": "Medley Swims", "video":""},
+                {"name": "Aquatic Cardio Workouts", "video":""}
+            ]
+        }, 
         "yoga": {
-            "poses": [],
-            "sequences": []
+            "poses": [
+                {"name": "Downward Dog", "video":""},
+                {"name": "Warrior I", "video":""},
+                {"name": "Warrior II", "video":""},
+                {"name": "Tree Pose", "video":""},
+                {"name": "Childs Pose", "video":""},
+                {"name": "Cobra Pose", "video":""},
+                {"name": "Plank", "video":""},
+                {"name": "Bridge Pose", "video":""},
+                {"name": "Chair Pose", "video":""},
+                {"name": "Seated Forward Bend", "video":""}
+            ],
+            "sequences": [
+                {"name": "Sun Salutation A", "video":""},
+                {"name": "Sun Salutation BSkull Crushers", "video":""},
+                {"name": "Vinyasa Flow", "video":""},
+                {"name": "Yin Yoga for Relaxation", "video":""},
+                {"name": "Power Yoga Sequence", "video":""},
+                {"name": "Balance and Strength Flow", "video":""},
+                {"name": "Morning Yoga Routine", "video":""},
+                {"name": "Evening Relaxation Sequence", "video":""},
+                {"name": "Heart Opening Flow", "video":""},
+                {"name": "Twist and Detox Sequence", "video":""}
+            ]
         },
         "flexibility": {
-            "stretches": [],
-            "routines": []
+            "stretches": [
+                {"name": "Neck Stretch", "video":""},
+                {"name": "Shoulder Stretch", "video":""},
+                {"name": "Triceps Stretch", "video":""},
+                {"name": "Chest Opener", "video":""},
+                {"name": "Spinal Twist", "video":""},
+                {"name": "Hamstring Stretch", "video":""},
+                {"name": "Quadriceps Stretch", "video":""},
+                {"name": "Calf Stretch Crushers", "video":""},
+                {"name": "Hip Flexor Stretch", "video":""},
+                {"name": "Butterfly Stretch", "video":""}
+            ],
+            "routines": [
+                {"name": "Dynamic Stretching Warm-up", "video":""},
+                {"name": "Full-Body Stretch Routine", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""},
+                {"name": "Skull Crushers", "video":""}
+            ]
         }
     }
 }
 
-  
+    [, , Post-Workout Flexibility Flow, Morning Stretching Routine, Desk Stretch Series, Pre-Run Stretching, Yoga-Inspired Stretching, Foam Rolling Session, Deep Relaxation Stretch Routine, Mindful Stretching for Stress Relief],
+    
